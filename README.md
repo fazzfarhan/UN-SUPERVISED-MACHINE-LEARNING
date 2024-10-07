@@ -12,3 +12,7 @@ B) Hierarchical Clustering
 Description: Hierarchical clustering builds nested clusters by either merging or splitting them successively. This creates a hierarchy of clusters that can be represented using a tree-like diagram called a dendrogram.
 
 Suitability: The Iris dataset is suitable for hierarchical clustering because it allows visualization of the nested cluster structure, revealing the relationships between data points.
+
+Dataset: The project uses the Iris dataset, a classic dataset for machine learning, containing measurements of iris flowers.
+
+Results: Visualizations of clusters Insights from applying different clustering algorithms
